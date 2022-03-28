@@ -1,4 +1,4 @@
-I'm Alexander Reyne. I am a full-stack developer with an emphasis on the back end. Bot developer for World of Warcraft for seven years. I fly 🛩️ drones, play 🎹 piano, and take 📸 photos. GWOT Veteran 🇺🇸
+I'm Alexander Reyne. I am a full-stack developer with an emphasis on the back end. Bot developer for World of Warcraft for seven years. eCommerce and Web consultant for 5.
 
 Current projects include:
 * App to connect veterans with institutions of higher education.
@@ -51,3 +51,6 @@ All of my projects are free to use and do not include ads.
 </details>
 
 Thanks to [Andrew Bateman](https://github.com/AndrewJBateman/) for the readme template.
+
+### Hobbies:
+🎹 - 📸 - 🚁 - 🏔️
