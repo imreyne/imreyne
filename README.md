@@ -8,9 +8,9 @@ Current projects include:
 
 All of my projects are free to use and do not include ads.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexreyne/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:me@alexreyne.com)](mailto:me@alexreyne.com)
-[![Portfolio](https://img.shields.io/badge/Profile_\(Under_Construction\)-231F20?style=flat-square&logo=buffer&logoColor=white)](https://alexreyne.com/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexreyne/)
+[![Gmail](https://img.shields.io/badge/GMail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:me@alexreyne.com)](mailto:me@alexreyne.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio_\(Under_Construction\)-231F20?style=flat-square&logo=buffer&logoColor=white)](https://alexreyne.com/)
 
 
 ### Languages
