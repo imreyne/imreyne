@@ -50,4 +50,4 @@ All of my projects are free to use and do not include ads.
 <img align="left" alt="Reyne's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imreyne" />
 </details>
 
-Thanks to ![Andrew Bateman](https://github.com/AndrewJBateman/) for the readme template.
+Thanks to [Andrew Bateman](https://github.com/AndrewJBateman/) for the readme template.
