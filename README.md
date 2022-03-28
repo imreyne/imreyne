@@ -53,5 +53,9 @@ All of my projects are free to use and do not include ads.
 
 Thanks to [Andrew Bateman](https://github.com/AndrewJBateman/) for the readme template.
 
-### Hobbies:
-🎹 - 📸 - 🚁 - 🏔️
+## Hobbies:
+* 🎹 Piano
+* 📸 Photography
+* 🚁 Drones
+* 🏔️ National Parks
+* 🎲 Tabletop Games
