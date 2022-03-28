@@ -1,7 +1,7 @@
 I'm Alexander Reyne. I am a full-stack developer with an emphasis on the back end. Ex-bot developer for World of Warcraft. 
 Independent eCommerce and Web consultant since 2017. 
 
-I aim to utilize technology to improve the lives of other service members. If you're interested in collaborating or supporting a project, please reach out. All of my projects are free to use and do not include ads. I do not sell user data in any way, shape, or form. 
+I aim to utilize technology to improve the lives of other service members. If you're interested in collaborating or supporting a project, please reach out. All of my projects are free to use and do not include ads.
 
 Current projects include:
 * App to connect veterans with institutions of higher education.
