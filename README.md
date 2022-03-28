@@ -27,10 +27,6 @@ I'm Reyne. I am a back-end developer with enough front-end knowledge to mess aro
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
 
-### IDEs
-
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
-
 <details>
   <summary> ⚡ GitHub Stats</summary>
   <img align="left" alt="Reyne's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=imreyne&show_icons=true&hide_border=true" />
