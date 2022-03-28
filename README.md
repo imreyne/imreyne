@@ -1,4 +1,4 @@
-I'm Reyne. I am a full-stack developer with an emphasis on back end and database administration. My technical background is mostly systems administration and cybersecurity.
+I'm Alexander Reyne. I am a full-stack developer with an emphasis on the back end. Bot developer for World of Warcraft for seven years. I fly 🛩️ drones, play 🎹 piano, and take 📸 photos. GWOT Veteran 🇺🇸
 
 Current projects include:
 * App to connect veterans with institutions of higher education.
