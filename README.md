@@ -1,4 +1,4 @@
-I'm Reyne. I am a back-end developer with enough front-end knowledge to mess around.
+I'm Reyne. I am a full-stack developer with an emphasis on back end and database administration. My technical background is mostly systems administration and cybersecurity.
 
 ### Languages
 
