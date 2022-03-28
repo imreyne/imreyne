@@ -1,13 +1,13 @@
 I'm Alexander Reyne. I am a full-stack developer with an emphasis on the back end. Ex-bot developer for World of Warcraft. 
-eCommerce and Web consultant since 2017.
+Independent eCommerce and Web consultant since 2017. 
+
+I aim to utilize technology to improve the lives of other service members. If you're interested in collaborating or supporting a project, please reach out. All of my projects are free to use and do not include ads. I do not sell user data in any way, shape, or form. 
 
 Current projects include:
 * App to connect veterans with institutions of higher education.
 * Meal planning app for US Army dining facilities, with accurate calorie, macro, and micro counts.
 * Virtual museum for military units.
 * "object" ranking tool for personal or community use.
-
-All of my projects are free to use and do not include ads.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexreyne/)
 [![Gmail](https://img.shields.io/badge/GMail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:me@alexreyne.com)](mailto:me@alexreyne.com)
