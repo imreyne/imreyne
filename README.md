@@ -1,4 +1,5 @@
-I'm Alexander Reyne. I am a full-stack developer with an emphasis on the back end. Ex-bot developer for World of Warcraft. eCommerce and Web consultant since 2017.
+I'm Alexander Reyne. I am a full-stack developer with an emphasis on the back end. Ex-bot developer for World of Warcraft. 
+eCommerce and Web consultant since 2017.
 
 Current projects include:
 * App to connect veterans with institutions of higher education.
