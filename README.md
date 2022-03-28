@@ -1,5 +1,18 @@
 I'm Reyne. I am a full-stack developer with an emphasis on back end and database administration. My technical background is mostly systems administration and cybersecurity.
 
+Current projects include:
+* App to connect veterans with institutions of higher education.
+* Meal planning app for US Army dining facilities, with accurate calorie, macro, and micro counts.
+* Virtual museum for military units.
+* "object" ranking tool for personal or community use.
+
+All of my projects are free to use and do not include ads.
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexreyne/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:me@alexreyne.com)](mailto:me@alexreyne.com)
+[![Portfolio](https://img.shields.io/badge/Profile_\(Under_Construction\)-231F20?style=flat-square&logo=buffer&logoColor=white)](https://alexreyne.com/)
+
+
 ### Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
